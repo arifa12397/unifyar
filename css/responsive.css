@@ -1,0 +1,367 @@
+/*
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+@media (min-width: 320px) and (max-width: 480px) {
+
+  /*********Code Start********/
+  .slider .carousel-caption {
+    bottom: 10%;
+  }
+
+  .d-md-block {
+    display: block !important;
+  }
+
+  .slider .carousel-caption h4 {
+    font-size: 14px;
+    margin-bottom: 10px;
+    text-align: center;
+    color: #000;
+  }
+
+  .slider .carousel-caption h2 {
+    text-align: center;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 0px;
+    margin-bottom: 5px;
+  }
+
+  .slider .carousel-caption .color {
+    font-size: 10px;
+    font-weight: 700;
+    padding: 10px 30px;
+  }
+
+  .slider .carousel-caption .btn-info {
+    font-size: 10px;
+    font-weight: 700;
+    padding: 10px 30px;
+  }
+
+  .slidertwo .carousel-caption {
+    bottom: -60%;
+  }
+
+  .slidertwo .container .col-xl-7 h2 {
+    color: #000;
+    padding: 35px 0px 0px;
+    letter-spacing: 4px;
+    font-size: 12px;
+    line-height: 10px;
+  }
+
+  .slidertwo .container .col-xl-7 p {
+    color: #000;
+    font-size: 8px;
+    padding: 20px 0px;
+  }
+
+  .slidertwo .carousel-caption .btn-info {
+    font-size: 10px;
+    font-weight: 700;
+    padding: 10px 30px;
+  }
+
+  .slider3 .carousel-caption {
+    bottom: -60%;
+  }
+
+  .slider3 .container .col-xl-7 h2 {
+    color: #000;
+    padding: 35px 0px 0px;
+    letter-spacing: 4px;
+    font-size: 12px;
+    line-height: 10px;
+  }
+
+  .slider3 .container .col-xl-7 p {
+    color: #000;
+    font-size: 8px;
+    padding: 20px 0px;
+  }
+
+  .services h2 {
+    text-align: center;
+    font-weight: 700;
+    font-size: 32px;
+    padding: 0px 0px 10px;
+    margin-top: -22%;
+  }
+
+  .inner-portfolio {
+    margin-left: -8px;
+  }
+
+  .inner-portfolio .port-hover {
+    width: 104%;
+  }
+
+  .our-works .btn-info {
+    width: 30%;
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 35%;
+  }
+
+  .about-unify .image1 img {
+    width: 100%;
+    background-size: contain;
+  }
+
+  .about-unify .image2 {
+    z-index: -1;
+    margin-top: -180px;
+    padding-left: 50px;
+    position: absolute;
+  }
+
+  .about-unify .image2 img {
+    width: 100%;
+    background-size: contain;
+  }
+
+  .about h2 {
+    padding: 25px 0px 10px;
+  }
+
+  .top-footer .widget1 h4 {
+    margin-left: 0px;
+    padding-top: 20px;
+  }
+
+  .top-footer .feed h4 {
+    margin-left: 0px;
+    padding-top: 20px;
+  }
+
+  .top-footer .updates h4 {
+    margin-left: 0px;
+    padding-top: 20px;
+  }
+
+  .main-form {
+    margin-left: 0px;
+  }
+
+  /*********Code end********/
+}
+
+/*
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+@media (min-width: 481px) and (max-width: 767px) {
+
+  /*********Code Start********/
+  .slider .carousel-caption {
+    bottom: 10%;
+  }
+
+  .d-md-block {
+    display: block !important;
+  }
+
+  .slider .carousel-caption h4 {
+    font-size: 14px;
+    margin-bottom: 10px;
+    text-align: center;
+    color: #000;
+  }
+
+  .slider .carousel-caption h2 {
+    text-align: center;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 0px;
+    margin-bottom: 5px;
+  }
+
+  .slider .carousel-caption .color {
+    font-size: 10px;
+    font-weight: 700;
+    padding: 10px 30px;
+  }
+
+  .slider .carousel-caption .btn-info {
+    font-size: 10px;
+    font-weight: 700;
+    padding: 10px 30px;
+  }
+
+  .slidertwo .carousel-caption {
+    bottom: -60%;
+  }
+
+  .slidertwo .container .col-xl-7 h2 {
+    color: #000;
+    padding: 0px;
+    letter-spacing: 4px;
+    font-size: 12px;
+    line-height: 10px;
+  }
+
+  .slidertwo .container .col-xl-7 p {
+    color: #000;
+    font-size: 8px;
+    padding: 20px 0px 100px;
+  }
+
+  .slidertwo .carousel-caption .btn-info {
+    font-size: 10px;
+    font-weight: 700;
+    padding: 10px 30px;
+    margin-top: 30px;
+  }
+
+  .slider3 .carousel-caption {
+    bottom: -60%;
+  }
+
+  .slider3 .container .col-xl-7 h2 {
+    color: #000;
+    padding: 0px;
+    letter-spacing: 4px;
+    font-size: 12px;
+    line-height: 10px;
+  }
+
+  .slider3 .container .col-xl-7 p {
+    color: #000;
+    font-size: 8px;
+    padding: 20px 0px 100px;
+  }
+
+  .inner-portfolio img {
+    padding-left: 46px;
+  }
+
+  .inner-portfolio .port-hover {
+    width: 80%;
+    margin-left: 50px;
+  }
+  .inner-portfolio .icon img {
+      padding-left: 4px;
+  }
+  .our-works .btn-info {
+    width: 30%;
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 35%;
+  }
+  .about-unify .image1 img {
+    width: 100%;
+    background-size: contain;
+  }
+
+  .about-unify .image2 {
+    z-index: -1;
+    margin-top: -220px;
+    padding-left: 50px;
+    position: absolute;
+  }
+
+  .about-unify .image2 img {
+    width: 100%;
+    background-size: contain;
+  }
+
+  .about h2 {
+    padding: 40px 0px 10px;
+  }
+  .top-footer .widget1 h4 {
+    margin-left: 0px;
+    padding-top: 20px;
+  }
+
+  .top-footer .feed h4 {
+    margin-left: 0px;
+    padding-top: 20px;
+  }
+
+  .top-footer .updates h4 {
+    margin-left: 0px;
+    padding-top: 20px;
+  }
+
+  .main-form {
+    margin-left: 0px;
+  }
+  /*********Code end********/
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  /*********Code Start********/
+  .slider .carousel-caption h4 {
+    margin-bottom: 0px;
+}
+  .slidertwo .carousel-caption h2 {
+
+    font-size: 32px;
+    line-height: 32px;
+    margin-bottom: -25px;
+}
+.slidertwo .carousel-caption .container .col-xl-7 p {
+    color: #000;
+    margin: 0px;
+    padding-top: 20px;
+}
+.slider3 .carousel-caption h2 {
+
+  font-size: 32px;
+  line-height: 32px;
+  margin-bottom: -25px;
+}
+.slider3 .carousel-caption .container .col-xl-7 p {
+  color: #000;
+  margin: 0px;
+  padding-top: 20px;
+}
+.container .pic {
+  text-align: center;
+  margin-left: 0%;
+}
+.inner-portfolio img {
+  padding-left: 25%;
+}
+
+.inner-portfolio .port-hover {
+  width: 53%;
+  margin-left: 25%;
+}
+.inner-portfolio .icon img {
+    padding-left: 4px;
+}
+.our-works .btn-info {
+  width: 30%;
+  text-align: center;
+  margin-top: 50px;
+  margin-left: 35%;
+}
+.about h2 {
+  padding: 40px 0px 10px;
+}
+.our-skill-area{
+  background-size:auto;
+}
+.top-footer .widget1 h4 {
+  margin-left: 0px;
+  padding-top: 20px;
+}
+
+.top-footer .feed h4 {
+  margin-left: 0px;
+  padding-top: 20px;
+}
+
+.top-footer .updates h4 {
+  margin-left: 0px;
+  padding-top: 20px;
+}
+
+.main-form {
+  margin-left: 0px;
+}
+  /*********Code end********/
+}
